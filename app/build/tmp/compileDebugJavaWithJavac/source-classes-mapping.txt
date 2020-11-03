@@ -1,2 +1,0 @@
-com/dsc/unprg/memohalloween/BuildConfig.java
- com.dsc.unprg.memohalloween.BuildConfig

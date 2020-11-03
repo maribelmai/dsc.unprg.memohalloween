@@ -1,4 +1,0 @@
-#Tue Nov 03 18:11:18 ART 2020
-base.0=/Users/maribelmai/productos/MemoHalloween/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

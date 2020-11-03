@@ -173,6 +173,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1080" height="577" key="DiffContextDialog" timestamp="1604438767088">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="100" y="123" width="1080" height="577" key="DiffContextDialog/0.23.1280.777@0.23.1280.777" timestamp="1604438767088" />
     <state x="431" y="261" key="Github.ShareDialog" timestamp="1604438326715">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -197,10 +201,18 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1280.777@0.23.1280.777" timestamp="1604438066165" />
+    <state x="100" y="123" width="1080" height="577" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1604438767088">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="100" y="123" width="1080" height="577" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.777@0.23.1280.777" timestamp="1604438767088" />
     <state width="300" height="124" key="javadoc.popup.new" timestamp="1604437970147">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="300" height="128" key="javadoc.popup.new/0.0.1280.800@0.0.1280.800" timestamp="1604437707429" />
     <state width="300" height="124" key="javadoc.popup.new/0.23.1280.777@0.23.1280.777" timestamp="1604437970147" />
+    <state x="253" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1604438728718">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="253" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1604438728718" />
   </component>
 </project>

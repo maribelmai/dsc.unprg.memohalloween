@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E65100">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Juego de la memoria"
+        android:textColor="@android:color/white"
+        android:fontFamily="sans-serif-medium"
+        android:padding="16dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ficha1"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+
+        <ImageView
+            android:id="@+id/ficha2"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+
+        <ImageView
+            android:id="@+id/ficha3"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ficha4"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+
+        <ImageView
+            android:id="@+id/ficha5"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+
+        <ImageView
+            android:id="@+id/ficha6"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ficha7"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+
+        <ImageView
+            android:id="@+id/ficha8"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+
+        <ImageView
+            android:id="@+id/ficha9"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ficha10"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+
+        <ImageView
+            android:id="@+id/ficha11"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+
+        <ImageView
+            android:id="@+id/ficha12"
+            android:background="#4A148C"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.33"
+            android:layout_margin="8dp"/>
+    </LinearLayout>
+
+</LinearLayout>
